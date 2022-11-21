@@ -1,4 +1,6 @@
-### Hi there 👋
+### Witaj 👋
+
+# Jesteś w moim osobistym repozytorium - przedstawię krótki opis:
 
 <!--
 **ajochymczyk/ajochymczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+* Obecnie pracuję nad zadaniem domowym z "Narzedzi informatycznych"
+* Staram się nauczyć programować w języku C
+* Uczę się pracy w zespole przy tworzeniu aplikacji "StudUnity"
+
+
+## Kilka faktów o mnie
+- Po pierwszym kolokwium z algebry cieszę się, że nie studiuję matematyki 
+- Interesuję się szkoleniem psów ( To mój Plan B :) )
+
+![](https://live.staticflickr.com/4290/34370407094_122d6f441a_b.jpg)
+
+
+
+ 
