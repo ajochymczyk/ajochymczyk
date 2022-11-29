@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 
  Poniżej znajduje się link do mojej strony:
- https://github.com/ajochymczyk/ajochymczyk.github.io.
+https://ajochymczyk.github.io/
