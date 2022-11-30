@@ -2,6 +2,10 @@
 
 # Jesteś w moim osobistym repozytorium - przedstawię krótki opis:
 
+
+
+ Poniżej znajduje się link do mojej strony:
+https://ajochymczyk.github.io/
 <!--
 **ajochymczyk/ajochymczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
