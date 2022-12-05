@@ -2,10 +2,15 @@
 
 # Jesteś w moim osobistym repozytorium - przedstawię krótki opis:
 
+Tutaj jest link do repozytorium z zadania 10d:
+https://github.com/ajochymczyk/DeepLabCut
 
+A tu link do strony artykułu 10e:
+https://paperswithcode.com/paper/deep-learning-tools-for-the-measurement-of
 
  Poniżej znajduje się link do mojej strony:
 https://ajochymczyk.github.io/
+
 <!--
 **ajochymczyk/ajochymczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
