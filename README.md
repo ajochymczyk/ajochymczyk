@@ -7,6 +7,7 @@ https://github.com/ajochymczyk/DeepLabCut
 
 A tu link do strony artykułu 10e:
 https://paperswithcode.com/paper/deep-learning-tools-for-the-measurement-of
+https://arxiv.org/pdf/1909.13868v2.pdf
 
  Poniżej znajduje się link do mojej strony:
 https://ajochymczyk.github.io/
