@@ -9,6 +9,6 @@ I am constantly striving for growth and self-improvement, always eager to learn 
 
  🌱 Currently Learning
  
-- Computational Intelligence in Digital Data Analysis – methods for processing and extracting valuable insights from digital datasets.
-- Intelligent Sensor Systems – designing and implementing smart sensing technologies for real-world applications.
-- Advanced Vision Algorithms – developing and optimizing computer vision models for image recognition and analysis.
+- Computational Intelligence in Digital Data Analysis 
+- Intelligent Sensor Systems
+- Advanced Vision Algorithms 
